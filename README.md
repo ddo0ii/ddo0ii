@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Soyeong Kwon</h1>
+﻿<h1 align="center">Welcome to Soyeong's Github 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=35&color=F06292&center=true&vCenter=true&width=500&height=60&lines=Front-end+Web+Developer;Why+not+change+the+world+%3F)](https://git.io/typing-svg)
 

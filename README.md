@@ -31,6 +31,13 @@
 <figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/6817d4ba-de10-497c-884c-b96e163c31b3.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/9b55f2d2-2b99-44a9-9eac-a1992172b7b1.svg"></embed></figure>
 
+.. image:: https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/0d12abfc-e61b-48bc-b870-b6da82a19a4c.png
+    :target: https://wakatime.com/
+.. image:: https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/993e3b02-1035-4c36-b32b-1251ba399ed3.png
+    :target: https://wakatime.com/
+.. image:: https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/53f4c347-4ed1-4100-b928-13df5a0840c4.png
+    :target: https://wakatime.com/
+
 vf2
 [![wakatime](https://wakatime.com/badge/github/ddo0ii/vf2.svg)](https://wakatime.com/badge/github/ddo0ii/vf2)
 [![wakatime](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/850c29dc-7afe-40d9-b276-4a4cc36f0610.svg)](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/850c29dc-7afe-40d9-b276-4a4cc36f0610)

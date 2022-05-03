@@ -1,8 +1,7 @@
 ﻿<h1 align="center">Welcome to Soyeong's Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=35&color=F06292&center=true&vCenter=true&width=500&height=60&lines=Front-end+Web+Developer;Why+not+change+the+world+%3F)](https://git.io/typing-svg)
-</p>
+[![Typing SVG$="cebterme"](https://readme-typing-svg.herokuapp.com?font=Neucha&size=35&color=F06292&center=true&vCenter=true&width=500&height=60&lines=Front-end+Web+Developer;Why+not+change+the+world+%3F)](https://git.io/typing-svg)
+
 <br>
 - 🔭 I’m currently working on [BRIC](https://www.ibric.org/)
 

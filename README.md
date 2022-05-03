@@ -26,6 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" /></p>
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->

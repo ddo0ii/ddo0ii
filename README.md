@@ -37,5 +37,6 @@ vf2
 [![wakatime](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/af68682e-9e50-4d6f-8058-a157dedf7270.svg)](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/af68682e-9e50-4d6f-8058-a157dedf7270)
 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/e5d1fc7f-6173-4629-9753-95976c5e4d9f.png" /></a>
 
 <!--END_SECTION:waka-->

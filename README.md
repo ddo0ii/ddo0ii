@@ -26,3 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" /></p>
 
+<!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/73b6ffcf-f8d1-4e6d-909d-69820384e0ba.svg"></embed></figure>
+
+<!--END_SECTION:waka-->

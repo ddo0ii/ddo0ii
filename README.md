@@ -1,6 +1,8 @@
 ﻿<h1 align="center">Welcome to Soyeong's Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=35&color=F06292&center=true&vCenter=true&width=500&height=60&lines=Front-end+Web+Developer;Why+not+change+the+world+%3F)](https://git.io/typing-svg)
+</p>
 <br>
 - 🔭 I’m currently working on [BRIC](https://www.ibric.org/)
 
@@ -27,9 +29,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" /></p>
 
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/5f88e099-badd-4a02-98e9-13de76b06b0b.png" /></a>
+<p align="center">
+<a href="https://wakatime.com"><img align="center" src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/5f88e099-badd-4a02-98e9-13de76b06b0b.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/e5d1fc7f-6173-4629-9753-95976c5e4d9f.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/7f4a7d79-9287-4114-b0f1-407f6c5a95d3.png" /></a>
+</p>
 
 vf2
 [![wakatime](https://wakatime.com/badge/github/ddo0ii/vf2.svg)](https://wakatime.com/badge/github/ddo0ii/vf2)

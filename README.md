@@ -27,9 +27,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" /></p>
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/73b6ffcf-f8d1-4e6d-909d-69820384e0ba.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/b48416f7-9d9b-49e4-9355-3f0888640ebe.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/6817d4ba-de10-497c-884c-b96e163c31b3.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/9b55f2d2-2b99-44a9-9eac-a1992172b7b1.svg"></embed></figure>
 
+vf2
 [![wakatime](https://wakatime.com/badge/github/ddo0ii/vf2.svg)](https://wakatime.com/badge/github/ddo0ii/vf2)
-<a href="https://wakatime.com/badge/github/ddo0ii/vf2"><img src="https://wakatime.com/badge/github/ddo0ii/vf2.svg" alt="wakatime"></a>
+[![wakatime](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/850c29dc-7afe-40d9-b276-4a4cc36f0610.svg)](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/850c29dc-7afe-40d9-b276-4a4cc36f0610)
+[![wakatime](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/af68682e-9e50-4d6f-8058-a157dedf7270.svg)](https://wakatime.com/badge/user/430c8105-7674-4d23-8e53-4690067874ca/project/af68682e-9e50-4d6f-8058-a157dedf7270)
+
+
 
 <!--END_SECTION:waka-->

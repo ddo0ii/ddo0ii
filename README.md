@@ -5,16 +5,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=35&color=F06292&center=true&vCenter=true&width=500&height=60&lines=Front-end+Web+Developer;Why+not+change+the+world+%3F)](https://git.io/typing-svg)
 
 </div>
+
 <br>
+
 - 🔭 I’m currently working on [BRIC](https://www.ibric.org/)
 
 - 📝 I regularly write articles on [https://ddo-development.tistory.com/](https://ddo-development.tistory.com/)
 
 - 📫 How to reach me **soyeong@gmail.com**
 <br>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/ddo0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ddo0ii" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ddo0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ddo0ii" height="30" width="40" /></a>
 <a href="https://fb.com/soyoung.kwon.714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soyoung.kwon.714" height="30" width="40" /></a>
 <a href="https://instagram.com/ddo_0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_0ii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-jpcCpxmGrnUcEPPster9w/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ddo_0ii" height="30" width="40" /></a>

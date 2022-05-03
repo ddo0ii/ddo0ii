@@ -29,4 +29,7 @@
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/73b6ffcf-f8d1-4e6d-909d-69820384e0ba.svg"></embed></figure>
 
+[![wakatime](https://wakatime.com/badge/github/ddo0ii/vf2.svg)](https://wakatime.com/badge/github/ddo0ii/vf2)
+
+
 <!--END_SECTION:waka-->

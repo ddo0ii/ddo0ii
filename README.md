@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://ddo-development.tistory.com/](https://ddo-development.tistory.com/)
 
-- 📫 How to reach me **soyeong@gmail.com**
+- 📫 How to reach me **soyeong5857@gmail.com**
 
 <br>
 

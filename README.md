@@ -30,8 +30,13 @@
 <br>
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://ddo-development.tistory.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ddo-development.tistory.com/rss" height="30" width="40" /></a>
+</p>
+
 
 <br>
 

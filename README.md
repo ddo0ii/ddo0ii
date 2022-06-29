@@ -30,6 +30,10 @@
 <br>
 <!-- 📕  Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [4-4. 프로젝트 &amp; npm &lpar;프로젝트를 생성하고 외부 모듈을 사용해 보기&rpar;](https://ddo-development.tistory.com/36)
+- [4-3. Node.js 기초 &lpar;Hello World부터 Common JS Module System까지&rpar;](https://ddo-development.tistory.com/35)
+- [4-1. Node.js란 &lpar;자바스크립트 런타임&rpar;](https://ddo-development.tistory.com/34)
+- [3-10. API &amp; fetch &lpar;Promise/async&amp;await/fetch/API&rpar;](https://ddo-development.tistory.com/33)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

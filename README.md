@@ -30,10 +30,10 @@
 <br>
 <!-- 📕  Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [5-3. JSX &lpar;HTML with Javascript&rpar;](https://ddo-development.tistory.com/39)
 - [5-2. Create React App &lpar;React App을 세상에서 가장 빠르고 편하게 만드는 방법&rpar;](https://ddo-development.tistory.com/38)
 - [5-1. Why React.js &lpar;React는 왜 필요한걸까?&rpar;](https://ddo-development.tistory.com/37)
 - [4-4. 프로젝트 &amp; npm &lpar;프로젝트를 생성하고 외부 모듈을 사용해 보기&rpar;](https://ddo-development.tistory.com/36)
-- [4-3. Node.js 기초 &lpar;Hello World부터 Common JS Module System까지&rpar;](https://ddo-development.tistory.com/35)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -30,10 +30,10 @@
 <br>
 <!-- 📕  Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [6-1. React에서 사용자 입력 처리 &lpar;useState with &lt;input /&gt;&rpar;](https://ddo-development.tistory.com/52)
 - [6. React.js 기본 &lpar;일기장 만들어보기&rpar;](https://ddo-development.tistory.com/51)
 - [5-5. Props &lpar;컴포넌트에 데이터를 전달하는 방법&rpar;](https://ddo-development.tistory.com/50)
 - [5-4. State&lpar;상태&rpar; &lpar;React State&rpar;](https://ddo-development.tistory.com/49)
-- [Chapter 09. 데이터베이스 성능](https://ddo-development.tistory.com/48)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -30,10 +30,10 @@
 <br>
 <!-- 📕  Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [6. React.js 기본 &lpar;일기장 만들어보기&rpar;](https://ddo-development.tistory.com/51)
+- [5-5. Props &lpar;컴포넌트에 데이터를 전달하는 방법&rpar;](https://ddo-development.tistory.com/50)
 - [5-4. State&lpar;상태&rpar; &lpar;React State&rpar;](https://ddo-development.tistory.com/49)
 - [Chapter 09. 데이터베이스 성능](https://ddo-development.tistory.com/48)
-- [Chapter 08. 백업 및 복구](https://ddo-development.tistory.com/47)
-- [Chapter 07. 테이블 설계](https://ddo-development.tistory.com/46)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

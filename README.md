@@ -30,10 +30,10 @@
 <br>
 <!-- 📕  Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [5-4. State&lpar;상태&rpar; &lpar;React State&rpar;](https://ddo-development.tistory.com/49)
 - [Chapter 09. 데이터베이스 성능](https://ddo-development.tistory.com/48)
 - [Chapter 08. 백업 및 복구](https://ddo-development.tistory.com/47)
 - [Chapter 07. 테이블 설계](https://ddo-development.tistory.com/46)
-- [Chapter 06. 트랜잭션](https://ddo-development.tistory.com/45)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

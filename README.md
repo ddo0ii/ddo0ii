@@ -28,7 +28,7 @@
 </p>
 
 <br>
-📕  Latest Blog Posts
+📕  Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
 - [6-1. React에서 사용자 입력 처리 &lpar;useState with &lt;input /&gt;&rpar;](https://ddo-development.tistory.com/52) <br>
 - [6. React.js 기본 &lpar;일기장 만들어보기&rpar;](https://ddo-development.tistory.com/51) <br>

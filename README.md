@@ -28,12 +28,12 @@
 </p>
 
 <br>
-<!-- 📕  Latest Blog Posts -->
+📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [6-1. React에서 사용자 입력 처리 &lpar;useState with &lt;input /&gt;&rpar;](https://ddo-development.tistory.com/52)
-- [6. React.js 기본 &lpar;일기장 만들어보기&rpar;](https://ddo-development.tistory.com/51)
-- [5-5. Props &lpar;컴포넌트에 데이터를 전달하는 방법&rpar;](https://ddo-development.tistory.com/50)
-- [5-4. State&lpar;상태&rpar; &lpar;React State&rpar;](https://ddo-development.tistory.com/49)
+- [6-1. React에서 사용자 입력 처리 &lpar;useState with &lt;input /&gt;&rpar;](https://ddo-development.tistory.com/52) <br>
+- [6. React.js 기본 &lpar;일기장 만들어보기&rpar;](https://ddo-development.tistory.com/51) <br>
+- [5-5. Props &lpar;컴포넌트에 데이터를 전달하는 방법&rpar;](https://ddo-development.tistory.com/50) <br>
+- [5-4. State&lpar;상태&rpar; &lpar;React State&rpar;](https://ddo-development.tistory.com/49) <br>
 <!-- BLOG-POST-LIST:END -->
 
 <br>

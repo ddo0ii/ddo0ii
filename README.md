@@ -30,10 +30,10 @@
 <br>
 📕  Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
+- [6-6. 리스트 데이터 수정하기 &lpar;UPDATE&rpar;](https://ddo-development.tistory.com/57)
 - [6-5. 리스트 데이터 삭제하기 &lpar;DELETE&rpar;](https://ddo-development.tistory.com/56)
 - [6-4. 리스트 데이터 추가하기 &lpar;CREATE&rpar;](https://ddo-development.tistory.com/55)
 - [6-3. React에서 리스트 사용하기&lpar;Array.map&lpar;&lpar;it&rpar;=&gt;&lt;Component key={it.id}{...it}/&gt;&rpar;&rpar;](https://ddo-development.tistory.com/54)
-- [6-2. React에서 DOM 조작하기 &lpar;useRef&rpar;](https://ddo-development.tistory.com/53)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

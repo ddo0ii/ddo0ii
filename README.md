@@ -30,10 +30,10 @@
 <br>
 📕  Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
+- [6-8. React에서 API 호출하기 &lpar;useEffect X fetch&rpar;](https://ddo-development.tistory.com/59)
+- [6-7. React Lifecycle 제어하기 &lpar;useEffect&rpar;](https://ddo-development.tistory.com/58)
 - [6-6. 리스트 데이터 수정하기 &lpar;UPDATE&rpar;](https://ddo-development.tistory.com/57)
 - [6-5. 리스트 데이터 삭제하기 &lpar;DELETE&rpar;](https://ddo-development.tistory.com/56)
-- [6-4. 리스트 데이터 추가하기 &lpar;CREATE&rpar;](https://ddo-development.tistory.com/55)
-- [6-3. React에서 리스트 사용하기&lpar;Array.map&lpar;&lpar;it&rpar;=&gt;&lt;Component key={it.id}{...it}/&gt;&rpar;&rpar;](https://ddo-development.tistory.com/54)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

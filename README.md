@@ -30,10 +30,10 @@
 <br>
 📕  Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
+- [6-10. 최적화1 - 연산 결과 재사용&lpar;useMemo&rpar;](https://ddo-development.tistory.com/61)
+- [6-9. React Developer Tools &lpar;RDT&rpar;](https://ddo-development.tistory.com/60)
 - [6-8. React에서 API 호출하기 &lpar;useEffect X fetch&rpar;](https://ddo-development.tistory.com/59)
 - [6-7. React Lifecycle 제어하기 &lpar;useEffect&rpar;](https://ddo-development.tistory.com/58)
-- [6-6. 리스트 데이터 수정하기 &lpar;UPDATE&rpar;](https://ddo-development.tistory.com/57)
-- [6-5. 리스트 데이터 삭제하기 &lpar;DELETE&rpar;](https://ddo-development.tistory.com/56)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

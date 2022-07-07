@@ -30,10 +30,10 @@
 <br>
 📕  Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
+- [6-12. 최적화 3 &lpar;컴포넌트 &amp; 함수 재사용하기&rpar;](https://ddo-development.tistory.com/63)
 - [6-11. 최적화 2 - 컴포넌트 재 사용](https://ddo-development.tistory.com/62)
 - [6-10. 최적화1 - 연산 결과 재사용&lpar;useMemo&rpar;](https://ddo-development.tistory.com/61)
 - [6-9. React Developer Tools &lpar;RDT&rpar;](https://ddo-development.tistory.com/60)
-- [6-8. React에서 API 호출하기 &lpar;useEffect X fetch&rpar;](https://ddo-development.tistory.com/59)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

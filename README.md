@@ -30,10 +30,10 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
-- [6-14. 복잡한 상태변화 로직분리 &lpar;useReducer&rpar;](https://ddo-development.tistory.com/65)
-- [6-13. 최적화 4&lpar;완&rpar; &lpar;프로젝트 최적화 완료&rpar;](https://ddo-development.tistory.com/64)
-- [6-12. 최적화 3 &lpar;컴포넌트 &amp; 함수 재사용하기&rpar;](https://ddo-development.tistory.com/63)
-- [6-11. 최적화 2 - 컴포넌트 재 사용](https://ddo-development.tistory.com/62)
+- [6-14. 복잡한 상태변화 로직분리 &lpar;useReducer&rpar;](https://ddo-development.tistory.com/65)<br>
+- [6-13. 최적화 4&lpar;완&rpar; &lpar;프로젝트 최적화 완료&rpar;](https://ddo-development.tistory.com/64)<br>
+- [6-12. 최적화 3 &lpar;컴포넌트 &amp; 함수 재사용하기&rpar;](https://ddo-development.tistory.com/63)<br>
+- [6-11. 최적화 2 - 컴포넌트 재 사용](https://ddo-development.tistory.com/62)<br>
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

@@ -34,6 +34,7 @@
 - [6-13. 최적화 4&lpar;완&rpar; &lpar;프로젝트 최적화 완료&rpar;](https://ddo-development.tistory.com/64)
 - [6-12. 최적화 3 &lpar;컴포넌트 &amp; 함수 재사용하기&rpar;](https://ddo-development.tistory.com/63)
 - [6-11. 최적화 2 - 컴포넌트 재 사용](https://ddo-development.tistory.com/62)
+- [6-10. 최적화1 - 연산 결과 재사용&lpar;useMemo&rpar;](https://ddo-development.tistory.com/61)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

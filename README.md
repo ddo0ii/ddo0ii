@@ -30,11 +30,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
-- [7-3. 페이지 라우팅 2 &lpar;CSR&rpar;](https://ddo-development.tistory.com/70)
-- [7-2. 페이지 라우팅 1 &lpar;CSR&rpar;](https://ddo-development.tistory.com/69)
-- [7-1. PAGE ROUTING &lpar;/home -&gt; /product?id=1&rpar;](https://ddo-development.tistory.com/68)
-- [프로젝트 완성 예시](https://ddo-development.tistory.com/67)
-- [6-15. 컴포넌트 트리에 데이터 공급하기 &lpar;Context API&rpar;](https://ddo-development.tistory.com/66)
+- [7-3. 페이지 라우팅 2 &lpar;CSR&rpar;](https://ddo-development.tistory.com/70)<br>
+- [7-2. 페이지 라우팅 1 &lpar;CSR&rpar;](https://ddo-development.tistory.com/69)<br>
+- [7-1. PAGE ROUTING &lpar;/home -&gt; /product?id=1&rpar;](https://ddo-development.tistory.com/68)<br>
+- [프로젝트 완성 예시](https://ddo-development.tistory.com/67)<br>
+- [6-15. 컴포넌트 트리에 데이터 공급하기 &lpar;Context API&rpar;](https://ddo-development.tistory.com/66)<br>
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

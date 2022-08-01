@@ -30,11 +30,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [7-4. 프로젝트 기초공사 1 &lpar;폰트, 공용 레이아웃, 이미지 에셋, 공용 컴포넌트 제작하기&rpar;, Flex설명, vh, vw, em, rem 등](https://ddo-development.tistory.com/71)
 - [7-3. 페이지 라우팅 2 &lpar;CSR&rpar;](https://ddo-development.tistory.com/70)
 - [7-2. 페이지 라우팅 1 &lpar;CSR&rpar;](https://ddo-development.tistory.com/69)
 - [7-1. PAGE ROUTING &lpar;/home -&gt; /product?id=1&rpar;](https://ddo-development.tistory.com/68)
 - [프로젝트 완성 예시](https://ddo-development.tistory.com/67)
-- [6-15. 컴포넌트 트리에 데이터 공급하기 &lpar;Context API&rpar;](https://ddo-development.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

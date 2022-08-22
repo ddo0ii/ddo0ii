@@ -25,7 +25,7 @@
   <a href="https://instagram.com/ddo_0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_0ii" height="30" width="40" /></a>
     <a href="https://instagram.com/ddo_shout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_shout" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/ddo_0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ddo_0ii" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UC-jpcCpxmGrnUcEPPster9w/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ddo_0ii" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UCVS6YLI6ea8eZ5tOXSnjEVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ddo_0ii" height="30" width="40" /></a>
 </p>
 
 <br>

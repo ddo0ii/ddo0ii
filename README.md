@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
-- [7-6. HOME 구현하기](https://ddo-development.tistory.com/73)<br>
-- [7-5. 프로젝트 기초공사 2 &lpar;프로젝트 상태관리 기초 공사하기&rpar;](https://ddo-development.tistory.com/72)<br>
-- [7-4. 프로젝트 기초공사 1 &lpar;폰트, 공용 레이아웃, 이미지 에셋, 공용 컴포넌트 제작하기&rpar;, Flex설명, vh, vw, em, rem 등](https://ddo-development.tistory.com/71)<br>
-- [7-3. 페이지 라우팅 2 &lpar;CSR&rpar;](https://ddo-development.tistory.com/70)<br>
-- [7-2. 페이지 라우팅 1 &lpar;CSR&rpar;](https://ddo-development.tistory.com/69)<br>
+- [7-14. Open Graph](https://ddo-development.tistory.com/85)
+- [7-13. 배포하기 &lpar;DEPLOY2&rpar; &lpar;Firebase로 프로젝트 배포하기&rpar;](https://ddo-development.tistory.com/84)
+- [7-12. 배포 준비하기 &lpar;DEPLOY1&rpar;](https://ddo-development.tistory.com/83)
+- [7-11. 최적화 하기 &lpar;OPTIMIZATION&rpar;](https://ddo-development.tistory.com/82)
+- [노트북사기](https://ddo-development.tistory.com/81)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

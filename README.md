@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [2.2 Our First React Element](https://ddo-development.tistory.com/87)
 - [2.1 Before React](https://ddo-development.tistory.com/86)
 - [7-14. Open Graph](https://ddo-development.tistory.com/85)
 - [7-13. 배포하기 &lpar;DEPLOY2&rpar; &lpar;Firebase로 프로젝트 배포하기&rpar;](https://ddo-development.tistory.com/84)
 - [7-12. 배포 준비하기 &lpar;DEPLOY1&rpar;](https://ddo-development.tistory.com/83)
-- [7-11. 최적화 하기 &lpar;OPTIMIZATION&rpar;](https://ddo-development.tistory.com/82)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

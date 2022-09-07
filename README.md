@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [3.3 Recap](https://ddo-development.tistory.com/94)
+- [3.2 setState part Two](https://ddo-development.tistory.com/93)
 - [3.1 setState part One](https://ddo-development.tistory.com/92)
 - [3.0 Understanding State](https://ddo-development.tistory.com/91)
 - [2.6 JSX part Two](https://ddo-development.tistory.com/90)
-- [2.5 JSX](https://ddo-development.tistory.com/89)
-- [2.3 Events in React](https://ddo-development.tistory.com/88)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [4.1 Memo](https://ddo-development.tistory.com/102)
 - [4.0 Props](https://ddo-development.tistory.com/101)
 - [3.9 Final Practice and Recap](https://ddo-development.tistory.com/100)
 - [3.8 Recap](https://ddo-development.tistory.com/99)
 - [3.7 State Practice part Two](https://ddo-development.tistory.com/98)
-- [3.6 State Practice part One](https://ddo-development.tistory.com/97)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

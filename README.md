@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [3.8 Recap](https://ddo-development.tistory.com/99)
+- [3.7 State Practice part Two](https://ddo-development.tistory.com/98)
 - [3.6 State Practice part One](https://ddo-development.tistory.com/97)
 - [3.5 Inputs and State](https://ddo-development.tistory.com/96)
 - [3.4 State Functions](https://ddo-development.tistory.com/95)
-- [3.3 Recap](https://ddo-development.tistory.com/94)
-- [3.2 setState part Two](https://ddo-development.tistory.com/93)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

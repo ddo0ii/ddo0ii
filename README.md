@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [6.0 Introduction](https://ddo-development.tistory.com/107)
+- [5.1 Tour of CRA](https://ddo-development.tistory.com/106)
+- [5.0 Introduction](https://ddo-development.tistory.com/105)
 - [4.3 Recap](https://ddo-development.tistory.com/104)
 - [4.2 Prop Types](https://ddo-development.tistory.com/103)
-- [4.1 Memo](https://ddo-development.tistory.com/102)
-- [4.0 Props](https://ddo-development.tistory.com/101)
-- [3.9 Final Practice and Recap](https://ddo-development.tistory.com/100)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

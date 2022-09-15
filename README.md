@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [6.1 useEffect](https://ddo-development.tistory.com/108)
 - [6.0 Introduction](https://ddo-development.tistory.com/107)
 - [5.1 Tour of CRA](https://ddo-development.tistory.com/106)
 - [5.0 Introduction](https://ddo-development.tistory.com/105)
 - [4.3 Recap](https://ddo-development.tistory.com/104)
-- [4.2 Prop Types](https://ddo-development.tistory.com/103)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

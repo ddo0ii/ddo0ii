@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [7.0 To Do List part One](https://ddo-development.tistory.com/112)
 - [6.4 Cleanup](https://ddo-development.tistory.com/111)
 - [6.3 Recap](https://ddo-development.tistory.com/110)
 - [6.2 Deps](https://ddo-development.tistory.com/109)
 - [6.1 useEffect](https://ddo-development.tistory.com/108)
-- [6.0 Introduction](https://ddo-development.tistory.com/107)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

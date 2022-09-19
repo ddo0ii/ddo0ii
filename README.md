@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [7.3 Movie App part One](https://ddo-development.tistory.com/115)
 - [7.2 Coin Tracker](https://ddo-development.tistory.com/114)
 - [7.1 To Do List part Two](https://ddo-development.tistory.com/113)
 - [7.0 To Do List part One](https://ddo-development.tistory.com/112)
 - [6.4 Cleanup](https://ddo-development.tistory.com/111)
-- [6.3 Recap](https://ddo-development.tistory.com/110)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

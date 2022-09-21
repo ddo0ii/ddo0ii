@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [7.9 Styles](https://ddo-development.tistory.com/120)
 - [7.7 Publishing](https://ddo-development.tistory.com/119)
 - [7.6 Parameters](https://ddo-development.tistory.com/118)
 - [7.5 React Router](https://ddo-development.tistory.com/117)
 - [7.4 Movie App part Two](https://ddo-development.tistory.com/116)
-- [7.3 Movie App part One](https://ddo-development.tistory.com/115)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

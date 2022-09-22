@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [10.2 Dynamic Component Generation](https://ddo-development.tistory.com/125)
 - [10.1 Reusable Components with JSX + Props](https://ddo-development.tistory.com/124)
 - [10.0 Creating your first React Component](https://ddo-development.tistory.com/123)
 - [9.2 How does React work?](https://ddo-development.tistory.com/122)
 - [9.0 Creating your first React App](https://ddo-development.tistory.com/121)
-- [7.9 Styles](https://ddo-development.tistory.com/120)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

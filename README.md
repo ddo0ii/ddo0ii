@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [12.0 Fetching Movies from API](https://ddo-development.tistory.com/132)
 - [11.3 Planning the Movie Component](https://ddo-development.tistory.com/131)
 - [11.2 Component Life Cycle](https://ddo-development.tistory.com/130)
 - [11.1 All you need to know about State](https://ddo-development.tistory.com/129)
 - [11.0 Class Components and State](https://ddo-development.tistory.com/128)
-- [10.4 Protection with PropTypes](https://ddo-development.tistory.com/127)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

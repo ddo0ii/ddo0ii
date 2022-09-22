@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [11.2 Component Life Cycle](https://ddo-development.tistory.com/130)
+- [11.1 All you need to know about State](https://ddo-development.tistory.com/129)
+- [11.0 Class Components and State](https://ddo-development.tistory.com/128)
 - [10.4 Protection with PropTypes](https://ddo-development.tistory.com/127)
 - [10.3 map Recap](https://ddo-development.tistory.com/126)
-- [10.2 Dynamic Component Generation](https://ddo-development.tistory.com/125)
-- [10.1 Reusable Components with JSX + Props](https://ddo-development.tistory.com/124)
-- [10.0 Creating your first React Component](https://ddo-development.tistory.com/123)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

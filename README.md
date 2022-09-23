@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [14.0 Getting Ready for the Router](https://ddo-development.tistory.com/140)
+- [13.1 Are we done?](https://ddo-development.tistory.com/139)
+- [13.0 Deploying to Github Pages](https://ddo-development.tistory.com/138)
 - [12.5 Cutting the summary](https://ddo-development.tistory.com/137)
 - [12.4 Styles Timelapse](https://ddo-development.tistory.com/136)
-- [12.3 Adding Genres](https://ddo-development.tistory.com/135)
-- [12.2 Styling the Movies](https://ddo-development.tistory.com/134)
-- [12.1 Rendering the Movies](https://ddo-development.tistory.com/133)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

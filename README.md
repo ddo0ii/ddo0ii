@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [12.3 Adding Genres](https://ddo-development.tistory.com/135)
+- [12.2 Styling the Movies](https://ddo-development.tistory.com/134)
 - [12.1 Rendering the Movies](https://ddo-development.tistory.com/133)
 - [12.0 Fetching Movies from API](https://ddo-development.tistory.com/132)
 - [11.3 Planning the Movie Component](https://ddo-development.tistory.com/131)
-- [11.2 Component Life Cycle](https://ddo-development.tistory.com/130)
-- [11.1 All you need to know about State](https://ddo-development.tistory.com/129)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [14.4 Redirecting](https://ddo-development.tistory.com/144)
+- [14.3 Sharing Props Between Routes](https://ddo-development.tistory.com/143)
 - [14.2 Building the Navigation](https://ddo-development.tistory.com/142)
 - [14.1 Building the Router](https://ddo-development.tistory.com/141)
 - [14.0 Getting Ready for the Router](https://ddo-development.tistory.com/140)
-- [13.1 Are we done?](https://ddo-development.tistory.com/139)
-- [13.0 Deploying to Github Pages](https://ddo-development.tistory.com/138)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

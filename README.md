@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [실전형 리액트 Hooks 10가지](https://ddo-development.tistory.com/147)
 - [14.4 Redirecting](https://ddo-development.tistory.com/144)
 - [14.3 Sharing Props Between Routes](https://ddo-development.tistory.com/143)
 - [14.2 Building the Navigation](https://ddo-development.tistory.com/142)
 - [14.1 Building the Router](https://ddo-development.tistory.com/141)
-- [14.0 Getting Ready for the Router](https://ddo-development.tistory.com/140)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

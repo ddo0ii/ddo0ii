@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [프론트엔드 공부 방법 포트폴리오 만들면서 실력을 늘려가기 | 개발자로 취업에 성공하는 포트폴리오 관리법 + Javascript 공부법](https://ddo-development.tistory.com/149)
+- [개발자 취업을 위한 포트폴리오 만들기 | 취업에 성공하는 포트폴리오 관리법, 프론트엔드 공부 방법 ⭐️](https://ddo-development.tistory.com/148)
 - [실전형 리액트 Hooks 10가지](https://ddo-development.tistory.com/147)
 - [14.4 Redirecting](https://ddo-development.tistory.com/144)
 - [14.3 Sharing Props Between Routes](https://ddo-development.tistory.com/143)
-- [14.2 Building the Navigation](https://ddo-development.tistory.com/142)
-- [14.1 Building the Router](https://ddo-development.tistory.com/141)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

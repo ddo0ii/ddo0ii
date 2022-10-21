@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [3052번 : 나머지 - map사용해서 Set 집합안에 넣기&lpar;중복값 제거&rpar;](https://ddo-development.tistory.com/156)
 - [10818번 : 최소, 최대 - sort사용&lpar;1 차원 배열&rpar;](https://ddo-development.tistory.com/155)
 - [10871번 : X보다 작은 수 - += 연산자, push, join 메서드, forEach 메서드](https://ddo-development.tistory.com/154)
 - [3003번 : 킹, 퀸, 룩, 비숍, 나이트, 폰 - map사용하여 입출력](https://ddo-development.tistory.com/153)
 - [10926: ??! - trim사용해서 공백없애고 입출력](https://ddo-development.tistory.com/152)
-- [1000번 : A + B - 입출력해보기!](https://ddo-development.tistory.com/151)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

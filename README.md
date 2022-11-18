@@ -77,7 +77,9 @@
 
 <!--START_SECTION:waka-->
 <p align="center">
+<!--
 <a href="https://wakatime.com"><img style="width:48%;" src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/5f88e099-badd-4a02-98e9-13de76b06b0b.png" /></a>
 <a href="https://wakatime.com"><img style="width:48%;" src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/e5d1fc7f-6173-4629-9753-95976c5e4d9f.png" /></a>
 <a href="https://wakatime.com"><img style="width:48%;" src="https://wakatime.com/share/@430c8105-7674-4d23-8e53-4690067874ca/7f4a7d79-9287-4114-b0f1-407f6c5a95d3.png" /></a>
+-->
 </p>

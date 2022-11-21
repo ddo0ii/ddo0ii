@@ -31,11 +31,11 @@
 <br>
 📕  Latest Blog Posts <br>
 <!-- BLOG-POST-LIST:START -->
+- [2908번 - 상수 - reverse함수](https://ddo-development.tistory.com/161)
 - [2675번 - 문자열 반복 - push&lpar;&rpar;, pop&lpar;&rpar;, unshift&lpar;&rpar;, shift&lpar;&rpar; 함수](https://ddo-development.tistory.com/160)
 - [chartAt&lpar;&rpar;, 문자열[index]](https://ddo-development.tistory.com/159)
 - [10809번 - 알파벳 찾기 - indexOf사용](https://ddo-development.tistory.com/158)
 - [11654번 : 아스키 코드 변환방법](https://ddo-development.tistory.com/157)
-- [3052번 : 나머지 - map사용해서 Set 집합안에 넣기&lpar;중복값 제거&rpar;](https://ddo-development.tistory.com/156)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>

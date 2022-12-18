@@ -10,9 +10,10 @@
 <br>
 
 <br>
+
 - 📃 My Portfolio [Portfolio Site](https://ddo0ii.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://ddo-development.tistory.com/](https://ddo-development.tistory.com/)
+- 🖼 I regularly write articles on [https://ddo-development.tistory.com/](https://ddo-development.tistory.com/)
 
 - 📫 How to reach me **soyeong5857@gmail.com**
 

@@ -31,7 +31,11 @@
 </p>
 
 <br>
-📕  Latest Blog Posts <br>
+
+📕  Latest Blog Posts 
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [2941번 - 크로아티아 알파벳 - 정규식 사용](https://ddo-development.tistory.com/162)
 - [2908번 - 상수 - reverse함수](https://ddo-development.tistory.com/161)

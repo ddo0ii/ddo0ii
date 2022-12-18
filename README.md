@@ -7,7 +7,6 @@
 
 </div>
 
-<br>
 
 <br>
 
@@ -26,15 +25,12 @@
   <a href="https://fb.com/soyoung.kwon.714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soyoung.kwon.714" height="30" width="40" /></a>
   <a href="https://instagram.com/ddo_0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_0ii" height="30" width="40" /></a>
     <a href="https://instagram.com/ddo_shout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_shout" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ddo_0ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ddo_0ii" height="30" width="40" /></a>
     <a href="https://www.youtube.com/channel/UCVS6YLI6ea8eZ5tOXSnjEVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ddo_0ii" height="30" width="40" /></a>
 </p>
 
-<br>
+<br><br>
 
 📕  Latest Blog Posts 
-
-<br>
 
 <!-- BLOG-POST-LIST:START -->
 - [2941번 - 크로아티아 알파벳 - 정규식 사용](https://ddo-development.tistory.com/162)
@@ -44,7 +40,7 @@
 - [10809번 - 알파벳 찾기 - indexOf사용](https://ddo-development.tistory.com/158)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

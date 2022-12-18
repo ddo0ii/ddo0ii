@@ -65,11 +65,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddo0ii&show_icons=true&locale=en&layout=compact" alt="ddo0ii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddo0ii&show_icons=true&locale=en" alt="ddo0ii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddo0ii&show_icons=true&locale=en&layout=compact" alt="ddo0ii" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddo0ii&show_icons=true&locale=en" alt="ddo0ii" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddo0ii&" alt="ddo0ii" />
 
 <!--START_SECTION:waka-->
 <p align="center">

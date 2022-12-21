@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [n사 면접 정리 및 다짐](https://ddo-development.tistory.com/163)
 - [2941번 - 크로아티아 알파벳 - 정규식 사용](https://ddo-development.tistory.com/162)
 - [2908번 - 상수 - reverse함수](https://ddo-development.tistory.com/161)
 - [2675번 - 문자열 반복 - push&lpar;&rpar;, pop&lpar;&rpar;, unshift&lpar;&rpar;, shift&lpar;&rpar; 함수](https://ddo-development.tistory.com/160)
 - [chartAt&lpar;&rpar;, 문자열[index]](https://ddo-development.tistory.com/159)
-- [10809번 - 알파벳 찾기 - indexOf사용](https://ddo-development.tistory.com/158)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

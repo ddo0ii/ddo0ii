@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 소개](https://ddo-development.tistory.com/168)
+- [자바스크립트 기초](https://ddo-development.tistory.com/167)
+- [자바스크립트 개요](https://ddo-development.tistory.com/166)
+- [Document 객체](https://ddo-development.tistory.com/165)
 - [onClick 함수](https://ddo-development.tistory.com/164)
-- [2941번 - 크로아티아 알파벳 - 정규식 사용](https://ddo-development.tistory.com/162)
-- [2908번 - 상수 - reverse함수](https://ddo-development.tistory.com/161)
-- [2675번 - 문자열 반복 - push&lpar;&rpar;, pop&lpar;&rpar;, unshift&lpar;&rpar;, shift&lpar;&rpar; 함수](https://ddo-development.tistory.com/160)
-- [chartAt&lpar;&rpar;, 문자열[index]](https://ddo-development.tistory.com/159)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

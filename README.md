@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 출력](https://ddo-development.tistory.com/170)
 - [자바스크립트 문법](https://ddo-development.tistory.com/169)
 - [자바스크립트 소개](https://ddo-development.tistory.com/168)
 - [자바스크립트 기초](https://ddo-development.tistory.com/167)
 - [자바스크립트 개요](https://ddo-development.tistory.com/166)
-- [Document 객체](https://ddo-development.tistory.com/165)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

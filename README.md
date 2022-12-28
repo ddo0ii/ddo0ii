@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [대입 연산자](https://ddo-development.tistory.com/176)
+- [산술 연산자](https://ddo-development.tistory.com/175)
 - [변수](https://ddo-development.tistory.com/174)
 - [타입 변환](https://ddo-development.tistory.com/173)
 - [기본 타입](https://ddo-development.tistory.com/172)
-- [자바스크립트 적용](https://ddo-development.tistory.com/171)
-- [자바스크립트 출력](https://ddo-development.tistory.com/170)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

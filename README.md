@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [기타 제어문](https://ddo-development.tistory.com/184)
+- [반복문](https://ddo-development.tistory.com/183)
 - [조건문](https://ddo-development.tistory.com/182)
 - [기타 연산자](https://ddo-development.tistory.com/181)
 - [비트 연산자](https://ddo-development.tistory.com/180)
-- [논리 연산자](https://ddo-development.tistory.com/179)
-- [비교 연산자](https://ddo-development.tistory.com/178)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

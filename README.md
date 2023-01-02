@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [매개변수와 인수](https://ddo-development.tistory.com/190)
 - [함수의 유효 범위](https://ddo-development.tistory.com/189)
 - [변수의 유효 범위](https://ddo-development.tistory.com/188)
 - [함수의 기초](https://ddo-development.tistory.com/187)
 - [배열의 활용](https://ddo-development.tistory.com/186)
-- [배열의 기초](https://ddo-development.tistory.com/185)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

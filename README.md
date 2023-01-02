@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [변수의 유효 범위](https://ddo-development.tistory.com/188)
 - [함수의 기초](https://ddo-development.tistory.com/187)
 - [배열의 활용](https://ddo-development.tistory.com/186)
 - [배열의 기초](https://ddo-development.tistory.com/185)
 - [기타 제어문](https://ddo-development.tistory.com/184)
-- [반복문](https://ddo-development.tistory.com/183)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

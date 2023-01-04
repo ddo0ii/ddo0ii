@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [객체 프로퍼티와 메소드](https://ddo-development.tistory.com/196)
 - [객체 다루기](https://ddo-development.tistory.com/195)
 - [프로토타입](https://ddo-development.tistory.com/194)
 - [객체의 생성](https://ddo-development.tistory.com/193)
 - [객체의 개념](https://ddo-development.tistory.com/192)
-- [미리 정의된 전역 함수](https://ddo-development.tistory.com/191)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

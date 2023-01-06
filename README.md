@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Date 객체](https://ddo-development.tistory.com/201)
+- [Math 객체](https://ddo-development.tistory.com/200)
 - [Number 메소드](https://ddo-development.tistory.com/199)
 - [Number 객체](https://ddo-development.tistory.com/198)
 - [전역 객체와 래퍼 객체](https://ddo-development.tistory.com/197)
-- [객체 프로퍼티와 메소드](https://ddo-development.tistory.com/196)
-- [객체 다루기](https://ddo-development.tistory.com/195)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

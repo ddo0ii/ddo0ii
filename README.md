@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Array 객체](https://ddo-development.tistory.com/205)
 - [String 메소드](https://ddo-development.tistory.com/204)
 - [String 객체](https://ddo-development.tistory.com/203)
 - [Date 메소드](https://ddo-development.tistory.com/202)
 - [Date 객체](https://ddo-development.tistory.com/201)
-- [Math 객체](https://ddo-development.tistory.com/200)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

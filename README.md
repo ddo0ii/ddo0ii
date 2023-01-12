@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [노드 리스트](https://ddo-development.tistory.com/212)
+- [노드로의 접근](https://ddo-development.tistory.com/211)
 - [노드](https://ddo-development.tistory.com/210)
 - [DOM 요소](https://ddo-development.tistory.com/209)
 - [Document 객체](https://ddo-development.tistory.com/208)
-- [DOM의 개념](https://ddo-development.tistory.com/207)
-- [Array 메소드](https://ddo-development.tistory.com/206)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

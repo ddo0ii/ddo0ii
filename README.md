@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Screen 객체](https://ddo-development.tistory.com/218)
+- [History 객체](https://ddo-development.tistory.com/217)
+- [Location 객체](https://ddo-development.tistory.com/216)
 - [Window 객체](https://ddo-development.tistory.com/215)
 - [노드의 조작](https://ddo-development.tistory.com/214)
-- [노드의 관리](https://ddo-development.tistory.com/213)
-- [노드 리스트](https://ddo-development.tistory.com/212)
-- [노드로의 접근](https://ddo-development.tistory.com/211)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

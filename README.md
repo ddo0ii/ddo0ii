@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [이벤트 리스너 등록](https://ddo-development.tistory.com/223)
 - [이벤트의 개념](https://ddo-development.tistory.com/222)
 - [타이머](https://ddo-development.tistory.com/221)
 - [대화 상자](https://ddo-development.tistory.com/220)
 - [Navigator 객체](https://ddo-development.tistory.com/219)
-- [Screen 객체](https://ddo-development.tistory.com/218)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

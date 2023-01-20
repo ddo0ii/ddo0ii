@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [RegExp 객체](https://ddo-development.tistory.com/229)
 - [정규 표현식의 응용](https://ddo-development.tistory.com/228)
 - [정규 표현식의 개념](https://ddo-development.tistory.com/227)
 - [Strict 모드](https://ddo-development.tistory.com/226)
 - [예외 처리](https://ddo-development.tistory.com/225)
-- [이벤트 리스너 호출](https://ddo-development.tistory.com/224)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

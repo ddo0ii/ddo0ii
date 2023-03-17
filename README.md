@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [4. React 컴포넌트&lpar;1&rpar; - 컴포넌트란?](https://ddo-development.tistory.com/233)
 - [3. React 엘리먼트 렌더링](https://ddo-development.tistory.com/232)
 - [2. JSX란? &lpar;정의, 장점, 문법&rpar;](https://ddo-development.tistory.com/231)
 - [1. React 시작하기&lpar;2&rpar; - React의 주요 특징](https://ddo-development.tistory.com/230)
 - [RegExp 객체](https://ddo-development.tistory.com/229)
-- [정규 표현식의 응용](https://ddo-development.tistory.com/228)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

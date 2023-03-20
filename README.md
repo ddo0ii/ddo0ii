@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [4. React 컴포넌트&lpar;3&rpar; - State 알아보기&lpar;React Hooks 사용&rpar;](https://ddo-development.tistory.com/236)
+- [binding의 개념과 call, apply, bind의 차이점](https://ddo-development.tistory.com/235)
 - [4. React 컴포넌트&lpar;2&rpar; - 프로퍼티&lpar;props&rpar;란?](https://ddo-development.tistory.com/234)
 - [4. React 컴포넌트&lpar;1&rpar; - 컴포넌트란?](https://ddo-development.tistory.com/233)
 - [3. React 엘리먼트 렌더링](https://ddo-development.tistory.com/232)
-- [2. JSX란? &lpar;정의, 장점, 문법&rpar;](https://ddo-development.tistory.com/231)
-- [1. React 시작하기&lpar;2&rpar; - React의 주요 특징](https://ddo-development.tistory.com/230)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

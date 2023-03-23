@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [5. React에 CSS 적용하기](https://ddo-development.tistory.com/239)
 - [4. React 컴포넌트&lpar;5&rpar; - map&lpar;&rpar; 반복문, 배열 컴포넌트](https://ddo-development.tistory.com/238)
 - [4. React 컴포넌트&lpar;4&rpar; - 이벤트 처리 방법](https://ddo-development.tistory.com/237)
 - [4. React 컴포넌트&lpar;3&rpar; - State 알아보기&lpar;React Hooks 사용&rpar;](https://ddo-development.tistory.com/236)
 - [binding의 개념과 call, apply, bind의 차이점](https://ddo-development.tistory.com/235)
-- [4. React 컴포넌트&lpar;2&rpar; - 프로퍼티&lpar;props&rpar;란?](https://ddo-development.tistory.com/234)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

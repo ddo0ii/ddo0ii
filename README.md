@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [7. React hooks[3] - useReducer란?](https://ddo-development.tistory.com/242)
 - [7. React hooks[2] - useEffect란?](https://ddo-development.tistory.com/241)
 - [6. React Router &lpar;리액트 라우터&rpar; 사용하기](https://ddo-development.tistory.com/240)
 - [5. React에 CSS 적용하기](https://ddo-development.tistory.com/239)
 - [4. React 컴포넌트&lpar;5&rpar; - map&lpar;&rpar; 반복문, 배열 컴포넌트](https://ddo-development.tistory.com/238)
-- [4. React 컴포넌트&lpar;4&rpar; - 이벤트 처리 방법](https://ddo-development.tistory.com/237)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

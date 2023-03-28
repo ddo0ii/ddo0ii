@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [1-05.데이터 타입](https://ddo-development.tistory.com/255)
 - [1-04.변수 선언자 &lpar;var, let, const&rpar;](https://ddo-development.tistory.com/254)
 - [1-03.주석&lpar;Comments&rpar; 처리](https://ddo-development.tistory.com/253)
 - [1-02.콘솔&lpar;Console&rpar;](https://ddo-development.tistory.com/252)
 - [1-01.자바스크립트 작성 위치](https://ddo-development.tistory.com/251)
-- [Virtual DOM, 가상 돔 이란?](https://ddo-development.tistory.com/250)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

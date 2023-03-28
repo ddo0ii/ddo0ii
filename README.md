@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [1-01.자바스크립트 작성 위치](https://ddo-development.tistory.com/251)
 - [Virtual DOM, 가상 돔 이란?](https://ddo-development.tistory.com/250)
 - [컴포넌트 생명주기 메서드](https://ddo-development.tistory.com/249)
 - [async/await](https://ddo-development.tistory.com/248)
 - [Promise](https://ddo-development.tistory.com/247)
-- [AJAX란 무엇인가 ?](https://ddo-development.tistory.com/246)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

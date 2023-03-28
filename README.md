@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [1-08.조건문&lpar;if-else, switch&rpar;](https://ddo-development.tistory.com/258)
+- [1-07.연산자 - 산술, 비교, Logical](https://ddo-development.tistory.com/257)
 - [Number - 64비트 부동소수점](https://ddo-development.tistory.com/256)
 - [1-05.데이터 타입](https://ddo-development.tistory.com/255)
 - [1-04.변수 선언자 &lpar;var, let, const&rpar;](https://ddo-development.tistory.com/254)
-- [1-03.주석&lpar;Comments&rpar; 처리](https://ddo-development.tistory.com/253)
-- [1-02.콘솔&lpar;Console&rpar;](https://ddo-development.tistory.com/252)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [2-08.Window 객체](https://ddo-development.tistory.com/268)
+- [2-07.JSON 객체](https://ddo-development.tistory.com/267)
+- [2-06.Math 내장 함수](https://ddo-development.tistory.com/266)
 - [2-05.Date 내장 함수](https://ddo-development.tistory.com/265)
 - [2-04.Array 내장 함수](https://ddo-development.tistory.com/264)
-- [2-03.Boolean 내장 함수](https://ddo-development.tistory.com/263)
-- [2-02.Number 내장 함수](https://ddo-development.tistory.com/262)
-- [2-01.String 내장 함수](https://ddo-development.tistory.com/261)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

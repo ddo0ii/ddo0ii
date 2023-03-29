@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [2-05.Date 내장 함수](https://ddo-development.tistory.com/265)
+- [2-04.Array 내장 함수](https://ddo-development.tistory.com/264)
 - [2-03.Boolean 내장 함수](https://ddo-development.tistory.com/263)
 - [2-02.Number 내장 함수](https://ddo-development.tistory.com/262)
 - [2-01.String 내장 함수](https://ddo-development.tistory.com/261)
-- [1-09.반복문&lpar;for, for-in, for-of, while&rpar;](https://ddo-development.tistory.com/259)
-- [1-08.조건문&lpar;if-else, switch&rpar;](https://ddo-development.tistory.com/258)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

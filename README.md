@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [3-06.Template Literals](https://ddo-development.tistory.com/275)
+- [3-05.Arrow Function](https://ddo-development.tistory.com/274)
 - [3-04.Rest Parameter](https://ddo-development.tistory.com/273)
 - [3-03.Default Function Parameter](https://ddo-development.tistory.com/272)
 - [3-02.Scope](https://ddo-development.tistory.com/271)
-- [3-01.this 키워드](https://ddo-development.tistory.com/270)
-- [2-09.크롬 개발자도구](https://ddo-development.tistory.com/269)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [3-06.Template Literals](https://ddo-development.tistory.com/275)
-- [3-05.Arrow Function](https://ddo-development.tistory.com/274)
-- [3-04.Rest Parameter](https://ddo-development.tistory.com/273)
-- [3-03.Default Function Parameter](https://ddo-development.tistory.com/272)
-- [3-02.Scope](https://ddo-development.tistory.com/271)
+- [3-16.Strict Mode](https://ddo-development.tistory.com/285)
+- [3-15.Error - try_catch_finally](https://ddo-development.tistory.com/284)
+- [3-14.클래스&lpar;Class&rpar;](https://ddo-development.tistory.com/283)
+- [3-13.모듈&lpar;Module&rpar;](https://ddo-development.tistory.com/282)
+- [3-12.Async_Await](https://ddo-development.tistory.com/281)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

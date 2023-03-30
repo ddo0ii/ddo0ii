@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [4-04.데이터테이블 만들기](https://ddo-development.tistory.com/290)
+- [4-03.HTML 스타일 컨트롤](https://ddo-development.tistory.com/289)
 - [4-02.HTML 이벤트 컨트롤](https://ddo-development.tistory.com/288)
 - [4-01.HTML Element 컨트롤](https://ddo-development.tistory.com/287)
 - [3-17.정규식&lpar;RegExp&rpar;](https://ddo-development.tistory.com/286)
-- [3-16.Strict Mode](https://ddo-development.tistory.com/285)
-- [3-15.Error - try_catch_finally](https://ddo-development.tistory.com/284)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

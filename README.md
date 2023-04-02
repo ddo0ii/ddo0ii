@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 제대로 배우자3](https://ddo-development.tistory.com/294)
 - [자바스크립트 제대로 배우자2](https://ddo-development.tistory.com/293)
 - [자바스크립트 제대로 배우자](https://ddo-development.tistory.com/292)
 - [실전 자바스크립트 퀴즈와 정리본](https://ddo-development.tistory.com/291)
 - [4-04.데이터테이블 만들기](https://ddo-development.tistory.com/290)
-- [4-03.HTML 스타일 컨트롤](https://ddo-development.tistory.com/289)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

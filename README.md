@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS 개념 정리 3](https://ddo-development.tistory.com/301)
 - [ReactJS 개념 정리 2](https://ddo-development.tistory.com/300)
 - [ReactJS 개념 정리 1](https://ddo-development.tistory.com/299)
 - [3편: JSX](https://ddo-development.tistory.com/298)
 - [누구든지 하는 리액트 2편: 리액트 프로젝트 시작하기](https://ddo-development.tistory.com/297)
-- [시작!](https://ddo-development.tistory.com/296)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[React.js] 리덕스&lpar;액션,미들웨어, 리듀서, 스토어&rpar;](https://ddo-development.tistory.com/311)
 - [[React.js] 리액트의 useEffect 활용법 &amp; 성능 최적화 방법](https://ddo-development.tistory.com/310)
 - [[React.js]리액트 타입선언, 조건부 렌더링, 컴포넌트 재사용성](https://ddo-development.tistory.com/309)
 - [[React.js]리액트 훅 규칙, Context API, 내장 훅](https://ddo-development.tistory.com/308)
 - [[React.js]리액트의 가상돔, 리액트 훅 기초](https://ddo-development.tistory.com/307)
-- [[React.js]리액트의 상탯값, 속성값, 반환값](https://ddo-development.tistory.com/306)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

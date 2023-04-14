@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[얄코] Section 1-1. SELECT 기초 - 원하는 정보 찾기 &lpar;SELECT 전반 기능 훑어보기&rpar;](https://ddo-development.tistory.com/319)
 - [[얄코] 데이터베이스는 뭐고 MySQL은 뭔가요 ?](https://ddo-development.tistory.com/318)
 - [4편: props 와 state](https://ddo-development.tistory.com/317)
 - [누구든지 하는 리액트 1편 : 리액트는 무엇인가](https://ddo-development.tistory.com/316)
 - [누구든지 하는 리액트 1편 리액트는 무엇인가](https://ddo-development.tistory.com/315)
-- [React-query 알아보고 사용해보기](https://ddo-development.tistory.com/314)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

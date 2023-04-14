@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [4편: props 와 state](https://ddo-development.tistory.com/317)
+- [누구든지 하는 리액트 1편 : 리액트는 무엇인가](https://ddo-development.tistory.com/316)
+- [누구든지 하는 리액트 1편 리액트는 무엇인가](https://ddo-development.tistory.com/315)
+- [React-query 알아보고 사용해보기](https://ddo-development.tistory.com/314)
 - [[React.js]리액트_redux-saga](https://ddo-development.tistory.com/313)
-- [[React.js]리액트 react-redux, reselect라이브러리](https://ddo-development.tistory.com/312)
-- [[React.js] 리덕스&lpar;액션,미들웨어, 리듀서, 스토어&rpar;](https://ddo-development.tistory.com/311)
-- [[React.js] 리액트의 useEffect 활용법 &amp; 성능 최적화 방법](https://ddo-development.tistory.com/310)
-- [[React.js]리액트 타입선언, 조건부 렌더링, 컴포넌트 재사용성](https://ddo-development.tistory.com/309)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

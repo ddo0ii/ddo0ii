@@ -33,11 +33,11 @@
 📕  Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[얄코] Section 2-1. SELECT 더 깊이 파보기 &lpar;쿼리 안에 서브쿼리&rpar;](https://ddo-development.tistory.com/324)
 - [[얄코] Section 1-5. SELECT 기초 - 원하는 정보 찾기 &lpar;조건에 따라 그룹으로 묶기&rpar;](https://ddo-development.tistory.com/323)
 - [[얄코] Section 1-4. SELECT 기초 - 원하는 정보 찾기 &lpar;시간/날짜 관련 및 기타 함수들&rpar;](https://ddo-development.tistory.com/322)
 - [[얄코] Section 1-3. SELECT 기초 - 원하는 정보 찾기 &lpar;숫자와 문자열을 다루는 함수들&rpar;](https://ddo-development.tistory.com/321)
 - [[얄코] Section 1-2. SELECT 기초 - 원하는 정보 찾기 &lpar;각종 연산자들&rpar;](https://ddo-development.tistory.com/320)
-- [[얄코] Section 1-1. SELECT 기초 - 원하는 정보 찾기 &lpar;SELECT 전반 기능 훑어보기&rpar;](https://ddo-development.tistory.com/319)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
